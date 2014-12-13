@@ -1,0 +1,48 @@
+.title {
+	color:#666;
+	font: 100px, "Lucida Grande", sans-serif;
+	text-align: center;
+}
+
+.title2 {
+	color:#f07c17;
+	font: 17px, "Lucida Grande", sans-serif;
+}
+
+
+
+.sep {
+	height:20px;
+}
+
+.outer{
+	padding:10px;
+	
+}
+
+.inner {
+	border: 1px solid #ccc !important;
+	padding: 20px;
+
+}
+.sborder {
+	border: 1px solid #ccc !important;
+}
+
+.images{
+	padding: 10px;
+}
+
+li {
+	color: #666;
+	font: 18px, "Lucida Grande", sans-serif;
+}
+
+p {
+	color: #666;
+	font: 100%, "Lucida Grande", sans-serif;
+}
+
+p.big {
+    line-height: 150%;
+}
